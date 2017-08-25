@@ -1,0 +1,10 @@
+Open browser and type: localhost
+=>>phpMyAdmin=>>Database=>>"Database name:quiz"=>>Create "Name:questions" "Collumns:2" =>>Create
+"Name:question_number" "Type:int" "Length:11" "Index: Primary"  
+"Name:text" "Type:text" =>>Save
+
+"Name:choices" "Collumns:4" =>>Create 
+"Name: id" "Type:int" "Length:11" "A_I(Auto_Increment):Yes" "Index:Primary"
+"Name: question_number" "Type:int" "Length:11"
+"Name: is_correct" "Type:tinyint" "Default:as defined:0" "Length:1"
+"Name: text" "Type:text" =>>Save
