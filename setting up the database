@@ -8,3 +8,5 @@ Open browser and type: localhost
 "Name: question_number" "Type:int" "Length:11"
 "Name: is_correct" "Type:tinyint" "Default:as defined:0" "Length:1"
 "Name: text" "Type:text" =>>Save
+User for db: root
+no password required
