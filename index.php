@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-//commenting aiurea
+<!--commenting aiurea-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -26,7 +26,7 @@
     </main>
     <footer>
         <div class="container">
-            Copyright &copy; 2017, Quiz Game
+            Copyright &copy; GEPACO 2017, Quiz Game
         </div>
     </footer>
 </body>
